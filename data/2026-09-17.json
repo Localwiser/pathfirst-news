@@ -1,49 +1,91 @@
 {
   "_meta": {
     "date": "2026-09-17",
-    "fetched_at": "2026-09-17T08:28:59.261Z",
+    "fetched_at": "2026-09-17T11:08:53.809Z",
     "spec": "Pathfirst workspace.json shell.new_modules.news.crawl_v1",
     "default_take": 10,
     "sources": [
       {
         "id": "hn",
         "ok": true,
-        "count": 18,
-        "ms": 5236
+        "count": 19,
+        "ms": 163
       },
       {
         "id": "github_blog",
         "ok": true,
         "count": 10,
-        "ms": 1632
+        "ms": 77
       },
       {
         "id": "hf_blog",
         "ok": true,
         "count": 10,
-        "ms": 1391
+        "ms": 88
       },
       {
         "id": "apple_dev",
         "ok": true,
         "count": 10,
-        "ms": 1357
+        "ms": 58
       },
       {
         "id": "techcrunch",
         "ok": true,
         "count": 20,
-        "ms": 1844
+        "ms": 61
       },
       {
         "id": "a16z",
         "ok": true,
         "count": 10,
-        "ms": 1905
+        "ms": 203
       }
     ]
   },
   "items": [
+    {
+      "id": "techcrunch-4eb50ae999",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "published": "2026-09-17T11:00:00.000Z",
+      "published_at": "2026-09-17T11:00:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-a73786220c",
+      "title": "One Year of Sponsored Servo Development",
+      "summary": "One Year of Sponsored Servo Development",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "published": "2026-09-17T08:13:54.000Z",
+      "published_at": "2026-09-17T08:13:54.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
     {
       "id": "techcrunch-09b1457162",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -843,6 +885,27 @@
       "ai_summary": false
     },
     {
+      "id": "hn-4b2df3dc7f",
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "summary": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "published": "2026-09-15T20:53:36.000Z",
+      "published_at": "2026-09-15T20:53:36.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
       "id": "hf_blog-16a7b27ed0",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "summary": "Your Agent Aced the Task. Will It Do It Again?",
@@ -961,6 +1024,27 @@
       "section": "ai_tech",
       "sections": [
         "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-846b8f1cb4",
+      "title": "PCB is brought to you by Fable 5",
+      "summary": "PCB is brought to you by Fable 5",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "published": "2026-09-14T12:25:24.000Z",
+      "published_at": "2026-09-14T12:25:24.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
       ],
       "lang": "en",
       "industry_group": "",
