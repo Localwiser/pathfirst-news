@@ -1,0 +1,13 @@
+{
+  "name": "pathfirst-news",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "crawl": "bun scripts/crawl.ts",
+    "crawl:dry": "bun scripts/crawl.ts --dry-run",
+    "check": "bun scripts/crawl.ts --check"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

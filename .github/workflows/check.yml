@@ -1,0 +1,18 @@
+name: check
+
+# Hand edits (sources.json, the script) are checked; the daily data commit
+# carries [skip ci] and does not run this.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - run: bun run check
+      - run: bun run crawl:dry

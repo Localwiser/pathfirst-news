@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "purpose": "出海资讯站 crawl v1 的源列表。唯一来源：主仓库 workspace.json 只引用这里。",
+    "spec": "Pathfirst workspace.json shell.new_modules.news.crawl_v1",
+    "section_by_source": "栏目由源决定，不用 LLM。见每个源的 section 字段。精选栏目 = 每个源当天最新 1 条。",
+    "section_caveat": "v1 栏目由源决定，Apple Dev 整源进快讯，会混进案例文章。接受，v2 LLM 分类后修正。",
+    "take_note": "没设 take 的源默认 10 条。HF feed 有几百篇旧文，全取会撑满当天文件。",
+    "disabled": [
+      {
+        "id": "huxiu",
+        "name": "虎嗅",
+        "why": "从 GitHub 服务器也超时。v2 走自建 RSSHub 的虎嗅路由（LAUNCH-TODO 8a）"
+      }
+    ]
+  },
+  "default_take": 10,
+  "timeout_seconds": 15,
+  "keep_days": 14,
+  "hn_min_score": 100,
+  "summary_max": 80,
+  "sources": [
+    {
+      "id": "hn",
+      "name": "Hacker News",
+      "type": "api",
+      "url": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "item_url": "https://hacker-news.firebaseio.com/v0/item/{id}.json",
+      "take": 30,
+      "section": "product_case",
+      "note": "只取 score >= 100 的；type=story 且有 url 的"
+    },
+    {
+      "id": "github_blog",
+      "name": "GitHub Blog",
+      "type": "rss",
+      "url": "https://github.blog/feed/",
+      "section": "ai_tech"
+    },
+    {
+      "id": "hf_blog",
+      "name": "Hugging Face Blog",
+      "type": "rss",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "section": "ai_tech"
+    },
+    {
+      "id": "apple_dev",
+      "name": "Apple Developer News",
+      "type": "rss",
+      "url": "https://developer.apple.com/news/rss/news.rss",
+      "section": "flash"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "type": "rss",
+      "url": "https://techcrunch.com/feed/",
+      "section": "product_case",
+      "take": 20
+    },
+    {
+      "id": "a16z",
+      "name": "a16z",
+      "type": "rss",
+      "url": "https://www.a16z.news/feed",
+      "section": "ai_tech",
+      "note": "a16z 官方 Substack。a16z.com/feed 不可用"
+    }
+  ],
+  "sections": [
+    "ai_tech",
+    "featured",
+    "flash",
+    "industry",
+    "product_case",
+    "ranking"
+  ]
+}
