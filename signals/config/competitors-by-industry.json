@@ -1,0 +1,208 @@
+{
+  "_meta": {
+    "批次": "TASK-signals-crawl 第一批",
+    "来源": "只抓两类：竞品公开 changelog（C3a）、App Store 官方评价 API 的 1–2 星（C3b）。评价站（ITreview 条款明文禁止、Capterra 403）不抓。",
+    "条款": "每个 changelog 抓之前读过条款：verdict 不是 allowed 就跳过并记原因。robots.txt 另判一次。",
+    "竞品清单": "人工确认，不由模型生成；LLM 只把抓到的内容归类到 reference_pains，不生成信号。",
+    "确认日期": "2026-09-20"
+  },
+  "combinations": [
+    {
+      "industry": "biz_ops",
+      "market": "JP",
+      "track": "micro_saas",
+      "reference_pains": ["线索跟进与报价", "排班与工时", "客户资料归集"],
+      "competitors": [
+        {
+          "name": "Misoca",
+          "url": "https://www.misoca.jp/",
+          "changelog": {
+            "url": "https://www.misoca.jp/update",
+            "kind": "html",
+            "terms": {
+              "url": "https://www.misoca.jp/terms",
+              "verdict": "allowed",
+              "checked_at": "2026-09-20",
+              "note": "利用規約未提及抓取、クローラー、自动收集"
+            }
+          },
+          "app_store": { "id": 1026534800, "country": "jp", "app_name": "Misoca" }
+        },
+        {
+          "name": "board",
+          "url": "https://the-board.jp/",
+          "changelog": {
+            "url": "https://the-board.jp/blogs/update_history/",
+            "kind": "html",
+            "terms": {
+              "url": "https://the-board.jp/terms",
+              "verdict": "allowed",
+              "checked_at": "2026-09-20",
+              "note": "第 11 条只禁止造成过载的访问"
+            }
+          },
+          "app_store": null
+        },
+        {
+          "name": "ジョブカン見積/請求書",
+          "url": "https://ic.jobcan.ne.jp/",
+          "changelog": null,
+          "app_store": { "id": 843130036, "country": "jp", "app_name": "ジョブカン" },
+          "note": "没有公开 changelog；App Store 评价数 70，样本小，脚本按样本量判 confidence。"
+        },
+        {
+          "name": "マネーフォワード クラウド請求書",
+          "url": "https://biz.moneyforward.com/invoice/",
+          "changelog": null,
+          "app_store": null,
+          "note": "跳过：Cloudflare 拦截，且利用規約第 13 条禁止为开发竞品而访问。"
+        },
+        {
+          "name": "GENIEE",
+          "url": "https://chat-plus.jp/",
+          "changelog": {
+            "url": "https://chat-plus.jp/update/",
+            "kind": "html",
+            "terms": {
+              "url": "https://chat-plus.jp/terms/",
+              "verdict": "unclear",
+              "checked_at": "2026-09-20",
+              "note": "条款页 429，读不到，按不明确处理"
+            }
+          },
+          "app_store": { "id": 6476259469, "country": "jp", "app_name": "GENIEE" },
+          "note": "changelog 因条款不明确不抓；App Store 评价数 12，样本很小。"
+        }
+      ]
+    },
+    {
+      "industry": "local_life",
+      "market": "JP",
+      "track": "micro_saas",
+      "reference_pains": ["排班与临时调班", "多平台订单聚合", "食材损耗与备货"],
+      "competitors": [
+        {
+          "name": "Airレジ",
+          "url": "https://airregi.jp/",
+          "changelog": {
+            "url": "https://faq.airregi.jp/hc/ja/sections/204673268",
+            "kind": "zendesk",
+            "terms": {
+              "url": "https://airregi.jp/terms/",
+              "verdict": "allowed",
+              "checked_at": "2026-09-20",
+              "note": "利用規約未禁止抓取；通过 Help Center 公开 API 读「リリース情報」，不解析 HTML"
+            }
+          },
+          "app_store": { "id": 732884567, "country": "jp", "app_name": "Airレジ" }
+        },
+        {
+          "name": "Airシフト",
+          "url": "https://airshift.jp/",
+          "changelog": {
+            "url": "https://faq.airshift.jp/hc/ja/sections/42738508042265",
+            "kind": "zendesk",
+            "terms": {
+              "url": "https://airshift.jp/terms/",
+              "verdict": "allowed",
+              "checked_at": "2026-09-20",
+              "note": "同 Airレジ；「機能アップデート」section 近 12 个月 0 条，预期跳过"
+            }
+          },
+          "app_store": { "id": 1392127948, "country": "jp", "app_name": "Airシフト" }
+        },
+        {
+          "name": "スマレジ",
+          "url": "https://smaregi.jp/",
+          "changelog": null,
+          "app_store": { "id": 463954733, "country": "jp", "app_name": "スマレジ" },
+          "note": "跳过 changelog：站点对脚本返回 403。"
+        },
+        {
+          "name": "トレタ",
+          "url": "https://toreta.in/",
+          "changelog": null,
+          "app_store": { "id": 749460884, "country": "jp", "app_name": "トレタ" },
+          "note": "没有公开的带日期更新列表；App Store 评价数 52。"
+        }
+      ]
+    },
+    {
+      "industry": "local_life",
+      "market": "DE",
+      "track": "micro_saas",
+      "reference_pains": ["排班与临时调班", "多平台订单聚合", "食材损耗与备货"],
+      "competitors": [
+        {
+          "name": "Ordio",
+          "url": "https://www.ordio.com/",
+          "changelog": {
+            "url": "https://www.ordio.com/produkt-updates",
+            "kind": "html",
+            "terms": {
+              "url": "https://www.ordio.com/agb/ordio-agb-mai-2026.pdf",
+              "verdict": "allowed",
+              "checked_at": "2026-09-20",
+              "note": "AGB 全文（Stand Mai 2026，15 条 + 数据处理附录）读完，无 Scraping/Crawler/§44b 条款"
+            }
+          },
+          "app_store": { "id": 1473934791, "country": "de", "app_name": "Ordio" },
+          "note": "robots.txt 只禁 /v2 /v3 /paid /pricing-uk，/produkt-updates 允许；近 12 个月 15 条更新。"
+        },
+        {
+          "name": "gastromatic",
+          "url": "https://www.gastromatic.com/de/",
+          "changelog": null,
+          "app_store": { "id": 937255518, "country": "de", "app_name": "gastromatic" },
+          "note": "没有公开 changelog（/produkt-updates、/neuigkeiten、/changelog 皆 404，帮助中心连不上）；AGB 本身未禁止抓取。"
+        },
+        {
+          "name": "Papershift",
+          "url": "https://www.papershift.com/",
+          "changelog": {
+            "url": "https://releases.papershift.com/de",
+            "kind": "html",
+            "terms": {
+              "url": "https://www.papershift.com/legal/nutzungsbedingungen",
+              "verdict": "unclear",
+              "checked_at": "2026-09-20",
+              "note": "网站条款第 6 条禁止「automatisierte Sammlung」，但只针对页面上的联系数据；范围不明确"
+            }
+          },
+          "app_store": { "id": 1454655718, "country": "de", "app_name": "Plan: Dienstplan" },
+          "note": "即便条款清楚也抓不到：Beamer 托管的 changelog 纯 JS 渲染，无 RSS，公开 API 需 key。"
+        },
+        {
+          "name": "orderbird",
+          "url": "https://www.orderbird.com/de/",
+          "changelog": null,
+          "app_store": { "id": 449862571, "country": "de", "app_name": "orderbird PRO" },
+          "note": "帮助中心有「Versions and Updates」分类，但没有带日期的历史条目；AGB 未禁止抓取。"
+        },
+        {
+          "name": "resmio",
+          "url": "https://www.resmio.com/",
+          "changelog": null,
+          "app_store": { "id": 1596466021, "country": "de", "app_name": "resmio" },
+          "note": "没有 changelog（status.resmio.com 是运行状态页）；App Store 评价数 8，样本很小。"
+        },
+        {
+          "name": "Planday",
+          "url": "https://www.planday.com/",
+          "changelog": {
+            "url": "https://help.planday.com/en/collections/5258-product-updates",
+            "kind": "html",
+            "terms": {
+              "url": "https://www.planday.com/legal/",
+              "verdict": "unclear",
+              "checked_at": "2026-09-20",
+              "note": "订阅条款只有 PDF，抽不出文本（PDFKit 也为空），条款无法核验"
+            }
+          },
+          "app_store": { "id": 518598166, "country": "de", "app_name": "Planday" },
+          "note": "changelog 已退化为每季一篇，近 12 个月 2 条；条款核验不了就不抓。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+name: signals
+
+# Pathfirst C3 signals (TASK-signals-crawl.md, plan A): competitor changelogs and
+# App Store 1–2 star reviews, grouped and counted by Claude Haiku. Monthly — both
+# change slowly — or by hand. A separate workflow: a failure here never touches
+# the daily news crawl. Commits signals/ only.
+on:
+  schedule:
+    - cron: "0 23 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: signals
+  cancel-in-progress: false
+
+jobs:
+  signals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+
+      - name: Crawl and classify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: bun run signals
+
+      - name: Check
+        run: bun run signals:check
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A signals
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          DATE=$(TZ=Asia/Shanghai date +%F)
+          git commit -m "signals：${DATE} [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          exit 1
