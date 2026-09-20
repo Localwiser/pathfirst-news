@@ -16,3 +16,6 @@ jobs:
       - run: bun install --frozen-lockfile
       - run: bun run check
       - run: bun run crawl:dry
+      - run: bun run signals:check
+      - run: bun test scripts/
+      - run: bun run typecheck

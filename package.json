@@ -5,9 +5,20 @@
   "scripts": {
     "crawl": "bun scripts/crawl.ts",
     "crawl:dry": "bun scripts/crawl.ts --dry-run",
-    "check": "bun scripts/crawl.ts --check"
+    "check": "bun scripts/crawl.ts --check",
+    "signals": "bun scripts/signals.ts",
+    "signals:dry": "bun scripts/signals.ts --dry-run",
+    "signals:check": "bun scripts/signals.ts --check",
+    "test": "bun test scripts/",
+    "typecheck": "tsc -p ."
   },
   "dependencies": {
-    "rss-parser": "^3.13.0"
+    "@anthropic-ai/sdk": "^0.127.0",
+    "rss-parser": "^3.13.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "typescript": "^7.0.2"
   }
 }
