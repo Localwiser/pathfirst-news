@@ -1,0 +1,1623 @@
+{
+  "_meta": {
+    "date": "2026-09-24",
+    "fetched_at": "2026-09-24T00:13:08.748Z",
+    "spec": "Pathfirst workspace.json shell.new_modules.news.crawl_v1",
+    "default_take": 10,
+    "sources": [
+      {
+        "id": "hn",
+        "ok": true,
+        "count": 15,
+        "ms": 209
+      },
+      {
+        "id": "github_blog",
+        "ok": true,
+        "count": 10,
+        "ms": 208
+      },
+      {
+        "id": "hf_blog",
+        "ok": true,
+        "count": 10,
+        "ms": 178
+      },
+      {
+        "id": "apple_dev",
+        "ok": true,
+        "count": 10,
+        "ms": 72
+      },
+      {
+        "id": "techcrunch",
+        "ok": true,
+        "count": 20,
+        "ms": 78
+      },
+      {
+        "id": "a16z",
+        "ok": true,
+        "count": 10,
+        "ms": 297
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "techcrunch-f17acf3bf0",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "summary": "Meta's return to the VR glasses realm comes with a promising combination of lig…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "published": "2026-09-23T23:47:35.000Z",
+      "published_at": "2026-09-23T23:47:35.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-31283a7047",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours batte…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "published": "2026-09-23T23:39:44.000Z",
+      "published_at": "2026-09-23T23:39:44.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-1c099eb50c",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amo…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "published": "2026-09-23T23:33:22.000Z",
+      "published_at": "2026-09-23T23:33:22.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-e8483fa4c1",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published": "2026-09-23T22:17:39.000Z",
+      "published_at": "2026-09-23T22:17:39.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-b8664d6b94",
+      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+      "summary": "Amazon is one of the largest companies in the world. How much responsibility do…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "published": "2026-09-23T21:21:33.000Z",
+      "published_at": "2026-09-23T21:21:33.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-7d4fad8cb2",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "summary": "VSCode's SSH Agent Is Bananas (2025)",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "published": "2026-09-23T21:01:48.000Z",
+      "published_at": "2026-09-23T21:01:48.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-d15d3591f5",
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "summary": "The VC firm says that AI-native companies are growing faster than any technolog…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "published": "2026-09-23T20:35:17.000Z",
+      "published_at": "2026-09-23T20:35:17.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-f744b3bc27",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs th…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "published": "2026-09-23T19:31:28.000Z",
+      "published_at": "2026-09-23T19:31:28.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-7d998d11cb",
+      "title": "Once Claude can measure something, it can make it faster",
+      "summary": "Once Claude can measure something, it can make it faster",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "published": "2026-09-23T19:23:40.000Z",
+      "published_at": "2026-09-23T19:23:40.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-f8e92900b8",
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "summary": "The startup is working on small, light motors with no rare-earth magnets that a…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "published": "2026-09-23T19:05:00.000Z",
+      "published_at": "2026-09-23T19:05:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-a70f8ac64e",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learnin…",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "published": "2026-09-23T18:41:40.000Z",
+      "published_at": "2026-09-23T18:41:40.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-f629750b18",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-lin…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "published": "2026-09-23T18:29:49.000Z",
+      "published_at": "2026-09-23T18:29:49.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-f82afb6487",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published": "2026-09-23T18:06:47.000Z",
+      "published_at": "2026-09-23T18:06:47.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-e7724e2b57",
+      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+      "summary": "At the same time, Disney appears to be exploring new ways to expand its streami…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+      "published": "2026-09-23T18:06:27.000Z",
+      "published_at": "2026-09-23T18:06:27.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-0c9c68daf8",
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "summary": "A brief history of Windows scroll bar shortcuts",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "published": "2026-09-23T18:02:08.000Z",
+      "published_at": "2026-09-23T18:02:08.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-45a116f96b",
+      "title": "The old cybersecurity model is breaking",
+      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "published": "2026-09-23T17:44:02.000Z",
+      "published_at": "2026-09-23T17:44:02.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-f9db261051",
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "summary": "The repeated incidents led one worker to file a complaint with the Occupational…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "published": "2026-09-23T17:28:38.000Z",
+      "published_at": "2026-09-23T17:28:38.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-5dce497623",
+      "title": "Italian parliament votes for return to nuclear energy",
+      "summary": "Italian parliament votes for return to nuclear energy",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "published": "2026-09-23T17:06:16.000Z",
+      "published_at": "2026-09-23T17:06:16.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-cb176447dd",
+      "title": "Introducing the a16z Ops Engineering Fellowship",
+      "summary": "A new six week cohort for the innovators redefining how organizations operate w…",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/introducing-the-a16z-ops-engineering",
+      "published": "2026-09-23T17:03:25.000Z",
+      "published_at": "2026-09-23T17:03:25.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-a8126a7f93",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "published": "2026-09-23T17:00:00.000Z",
+      "published_at": "2026-09-23T17:00:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-be57f79d57",
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "The report suggests that greater exposure will not resolve the unease around th…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "published": "2026-09-23T16:49:58.000Z",
+      "published_at": "2026-09-23T16:49:58.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-58a4ef2e52",
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "summary": "28% of job postings on company career sites have been open over 90 days",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "published": "2026-09-23T16:35:34.000Z",
+      "published_at": "2026-09-23T16:35:34.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-4713836e6d",
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "summary": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized mod…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "published": "2026-09-23T16:03:44.000Z",
+      "published_at": "2026-09-23T16:03:44.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-9806f24295",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "summary": "Creators will be able to use AI in a conversational chat interface to help them…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "published": "2026-09-23T15:46:57.000Z",
+      "published_at": "2026-09-23T15:46:57.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-f6fab29d98",
+      "title": "Gemini 3.8 text-to-speech",
+      "summary": "Gemini 3.8 text-to-speech",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "published": "2026-09-23T15:29:23.000Z",
+      "published_at": "2026-09-23T15:29:23.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-2579d672c2",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "summary": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "published": "2026-09-23T15:23:05.000Z",
+      "published_at": "2026-09-23T15:23:05.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-02b2e87836",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what t…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "published": "2026-09-23T15:19:30.000Z",
+      "published_at": "2026-09-23T15:19:30.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-f8d9a221b9",
+      "title": "Fixing the Portobello Police Station Clock",
+      "summary": "Fixing the Portobello Police Station Clock",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "published": "2026-09-23T15:18:53.000Z",
+      "published_at": "2026-09-23T15:18:53.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-a678b40bdd",
+      "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+      "summary": "Eight Sleep said the new pod is 20% faster than the previous generation.",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "published": "2026-09-23T14:45:00.000Z",
+      "published_at": "2026-09-23T14:45:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-ad9b546430",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "published": "2026-09-23T14:30:00.000Z",
+      "published_at": "2026-09-23T14:30:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-9d2124c120",
+      "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
+      "summary": "Other Made On YouTube announcements are also designed to help creators grow and…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+      "published": "2026-09-23T14:30:00.000Z",
+      "published_at": "2026-09-23T14:30:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-faf5a359c3",
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "summary": "Many of these tools hinge on using generative AI to try out a variety of differ…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "published": "2026-09-23T14:30:00.000Z",
+      "published_at": "2026-09-23T14:30:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-ef3d9040bf",
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "summary": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "published": "2026-09-23T14:04:34.000Z",
+      "published_at": "2026-09-23T14:04:34.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-603fa38216",
+      "title": "Should We Send Our Kids to HAA?",
+      "summary": "The future of education: whatever they wish",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/should-we-send-our-kids-to-haa",
+      "published": "2026-09-23T13:45:46.000Z",
+      "published_at": "2026-09-23T13:45:46.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-3186e672f1",
+      "title": "Stripe's Knowledge AI Platform",
+      "summary": "Stripe's Knowledge AI Platform",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "published": "2026-09-23T13:38:00.000Z",
+      "published_at": "2026-09-23T13:38:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-f41713034d",
+      "title": "I don't want the details",
+      "summary": "I don't want the details",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "published": "2026-09-23T13:04:44.000Z",
+      "published_at": "2026-09-23T13:04:44.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-4535e3623d",
+      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "published": "2026-09-23T13:00:00.000Z",
+      "published_at": "2026-09-23T13:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-a877a4ca21",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "summary": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "published": "2026-09-23T12:15:33.000Z",
+      "published_at": "2026-09-23T12:15:33.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-6ae758ca4e",
+      "title": "Z80 REPL (2018)",
+      "summary": "Z80 REPL (2018)",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "published": "2026-09-23T11:04:52.000Z",
+      "published_at": "2026-09-23T11:04:52.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-3c64bb95b2",
+      "title": "Tokens too cheap to meter",
+      "summary": "Tokens too cheap to meter",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "published": "2026-09-23T09:21:17.000Z",
+      "published_at": "2026-09-23T09:21:17.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-06a17eb5de",
+      "title": "Incubating The Horowitz Andreessen Academy",
+      "summary": "Entering an age of infinite doing",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/incubating-horowitz-andreessen-academy",
+      "published": "2026-09-22T13:07:31.000Z",
+      "published_at": "2026-09-22T13:07:31.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-7e1abc74d2",
+      "title": "Introducing The Horowitz Andreessen Academy",
+      "summary": "An Academy for Unusually Ambitious Young Builders",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/introducing-the-horowitz-andreessen",
+      "published": "2026-09-22T12:05:05.000Z",
+      "published_at": "2026-09-22T12:05:05.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-2960c64a01",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "published": "2026-09-22T00:00:00.000Z",
+      "published_at": "2026-09-22T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-98acfe91fd",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "Transformers now runs llama.cpp quants",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "published": "2026-09-22T00:00:00.000Z",
+      "published_at": "2026-09-22T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-fb8ad85c45",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX com…",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/omlx",
+      "published": "2026-09-22T00:00:00.000Z",
+      "published_at": "2026-09-22T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-c701b57089",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "published": "2026-09-21T13:44:34.000Z",
+      "published_at": "2026-09-21T13:44:34.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-eb792e0fc3",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "summary": "tokenizers v1: encode, decode and scaling, measured",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "published": "2026-09-21T00:00:00.000Z",
+      "published_at": "2026-09-21T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-d47226951a",
+      "title": "Build for iPhone Duo with new resources",
+      "summary": "Get Xcode 27.1 beta. View downloads and release notes Get Figma and Sketch desi…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "published": "2026-09-18T17:00:57.000Z",
+      "published_at": "2026-09-18T17:00:57.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-55f4720a90",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "summary": "We dive into these questions and other AI hot takes on the latest episode of th…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "published": "2026-09-18T15:00:00.000Z",
+      "published_at": "2026-09-18T15:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-c8ba9982c4",
+      "title": "Charts of the Week: So Many Apps, So Little Time",
+      "summary": "New Breed of Unicorn; Citrini Called the Bottom; MA and CA Make it Very Expensi…",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/charts-of-the-week-so-many-apps-so",
+      "published": "2026-09-18T14:04:07.000Z",
+      "published_at": "2026-09-18T14:04:07.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-6b8b0b6f48",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Co…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "published": "2026-09-17T00:26:43.000Z",
+      "published_at": "2026-09-17T00:26:43.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-957b5cc780",
+      "title": "Get ready with the latest beta releases",
+      "summary": "The beta versions of iOS 27.2, iPadOS 27.2, macOS 27.2, tvOS 27.2, visionOS 27.…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=rfb1rooi",
+      "published": "2026-09-16T17:03:39.000Z",
+      "published_at": "2026-09-16T17:03:39.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-3977462cb7",
+      "title": "Get your subscriptions ready for iOS 27",
+      "summary": "Discover how you can expand the reach of your subscriptions with new features i…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=likeohx4",
+      "published": "2026-09-16T17:02:58.000Z",
+      "published_at": "2026-09-16T17:02:58.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-7a901b6b02",
+      "title": "Updates to App Tracking Transparency in the European Union",
+      "summary": "As part of agreements with select European competition authorities, Apple is in…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=idsft9ai",
+      "published": "2026-09-16T17:00:11.000Z",
+      "published_at": "2026-09-16T17:00:11.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-16a7b27ed0",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Your Agent Aced the Task. Will It Do It Again?",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "2026-09-15T16:00:44.000Z",
+      "published_at": "2026-09-15T16:00:44.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-22af13f4e8",
+      "title": "Magazine Depth Affordability Is a Choice",
+      "summary": "We can afford the munitions we need if we make different buying decisions this…",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/magazine-depth-affordability-is-a",
+      "published": "2026-09-15T14:03:20.000Z",
+      "published_at": "2026-09-15T14:03:20.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-4304485b8c",
+      "title": "Product Management is Still All About Telling Stories",
+      "summary": "What AI is changing. What it’s not.",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/product-management-is-still-all-about",
+      "published": "2026-09-14T14:02:07.000Z",
+      "published_at": "2026-09-14T14:02:07.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-8587315c03",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "published": "2026-09-11T18:26:10.000Z",
+      "published_at": "2026-09-11T18:26:10.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-b26bd770fe",
+      "title": "Catching the (Venture) Bus",
+      "summary": "A “cottage” no more.",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/catching-the-venture-bus",
+      "published": "2026-09-11T14:01:15.000Z",
+      "published_at": "2026-09-11T14:01:15.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-115895427a",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "published": "2026-09-10T21:31:19.000Z",
+      "published_at": "2026-09-10T21:31:19.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-0588d26678",
+      "title": "Employers Are Shopping for a New Health Plan",
+      "summary": "Health plans have to compete again",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/the-great-health-plan-replacement",
+      "published": "2026-09-10T20:00:38.000Z",
+      "published_at": "2026-09-10T20:00:38.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-5c60118cd2",
+      "title": "Investing in Highstock",
+      "summary": "a16z leads Highstock’s Series A",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/investing-in-highstock",
+      "published": "2026-09-10T14:05:25.000Z",
+      "published_at": "2026-09-10T14:05:25.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-c5cd3eebef",
+      "title": "GitHub availability report: August 2026",
+      "summary": "In August, we experienced five incidents that resulted in degraded performance…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "published": "2026-09-10T02:05:17.000Z",
+      "published_at": "2026-09-10T02:05:17.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-d4e55a9164",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "published": "2026-09-10T00:00:00.000Z",
+      "published_at": "2026-09-10T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-cb50b0c3c8",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published": "2026-09-10T00:00:00.000Z",
+      "published_at": "2026-09-10T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-b39200e8a2",
+      "title": "Get ready for iPhone Duo",
+      "summary": "Start getting ready for iPhone Duo today. Watch new videos, sign up for Group L…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=vn8abkxx",
+      "published": "2026-09-09T23:05:23.000Z",
+      "published_at": "2026-09-09T23:05:23.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-a56799ac16",
+      "title": "App Store submissions now open for the latest OS releases",
+      "summary": "iOS 27, iPadOS 27, macOS 27, tvOS 27, visionOS 27, and watchOS 27 will soon be…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=k1mtkt1k",
+      "published": "2026-09-09T23:00:38.000Z",
+      "published_at": "2026-09-09T23:00:38.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-d4ae66cc1a",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows mat…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "published": "2026-09-04T16:04:14.000Z",
+      "published_at": "2026-09-04T16:04:14.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-bedb7b2530",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "published": "2026-09-03T16:00:00.000Z",
+      "published_at": "2026-09-03T16:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-96a3500c5a",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published": "2026-09-03T13:13:48.000Z",
+      "published_at": "2026-09-03T13:13:48.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-87d57cde98",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcas…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "published": "2026-09-02T21:00:00.000Z",
+      "published_at": "2026-09-02T21:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-dea5022c9b",
+      "title": "Hello Developer: September 2026",
+      "summary": "In this edition: Get ready for a special Apple Event, take advantage of Analyti…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=ote61lrx",
+      "published": "2026-09-02T15:00:02.000Z",
+      "published_at": "2026-09-02T15:00:02.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-3222454e0a",
+      "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
+      "summary": "In 2020, we introduced Apple silicon for Mac computers, providing Rosetta as a…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=w5ngl9k2",
+      "published": "2026-09-01T15:00:41.000Z",
+      "published_at": "2026-09-01T15:00:41.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-5ff48aa479",
+      "title": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
+      "summary": "Swiggy began as a humble food delivery service. Today, it’s India’s leading on-…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=o5spbekm",
+      "published": "2026-09-01T13:00:01.000Z",
+      "published_at": "2026-09-01T13:00:01.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-aca3306c82",
+      "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+      "summary": "The App Store is designed to make it easy to sell your digital goods and servic…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=artln8br",
+      "published": "2026-08-27T19:00:43.000Z",
+      "published_at": "2026-08-27T19:00:43.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    }
+  ]
+}
