@@ -1,0 +1,1644 @@
+{
+  "_meta": {
+    "date": "2026-10-28",
+    "fetched_at": "2026-10-28T00:57:51.882Z",
+    "spec": "Pathfirst workspace.json shell.new_modules.news.crawl_v1",
+    "default_take": 10,
+    "sources": [
+      {
+        "id": "hn",
+        "ok": true,
+        "count": 16,
+        "ms": 303
+      },
+      {
+        "id": "github_blog",
+        "ok": true,
+        "count": 10,
+        "ms": 705
+      },
+      {
+        "id": "hf_blog",
+        "ok": true,
+        "count": 10,
+        "ms": 207
+      },
+      {
+        "id": "apple_dev",
+        "ok": true,
+        "count": 10,
+        "ms": 224
+      },
+      {
+        "id": "techcrunch",
+        "ok": true,
+        "count": 20,
+        "ms": 59
+      },
+      {
+        "id": "a16z",
+        "ok": true,
+        "count": 10,
+        "ms": 435
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "techcrunch-a2f907c053",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly tape…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-27T23:34:27.000Z",
+      "published_at": "2026-10-27T23:34:27.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-a81d0c1c06",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "2026-10-27T22:55:41.000Z",
+      "published_at": "2026-10-27T22:55:41.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-31f30cc340",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to w…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "published": "2026-10-27T22:26:03.000Z",
+      "published_at": "2026-10-27T22:26:03.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-d03b0dd7f0",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "summary": "A whole crop of venture capital firms are raising significant new funds.",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "published": "2026-10-27T22:17:18.000Z",
+      "published_at": "2026-10-27T22:17:18.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-2ea67223be",
+      "title": "GM is embracing hybrids now",
+      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "published": "2026-10-27T21:47:02.000Z",
+      "published_at": "2026-10-27T21:47:02.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-7afb98bf14",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resu…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published": "2026-10-27T21:44:34.000Z",
+      "published_at": "2026-10-27T21:44:34.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-e4dbba9a24",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structu…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "published": "2026-10-27T21:38:28.000Z",
+      "published_at": "2026-10-27T21:38:28.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-c81c181c88",
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "summary": "In December, messages from Discord's public discoverable servers will begin app…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "published": "2026-10-27T21:22:35.000Z",
+      "published_at": "2026-10-27T21:22:35.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-fdf27bf996",
+      "title": "Early progress on accelerating drug development with Claude",
+      "summary": "Early progress on accelerating drug development with Claude",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "published": "2026-10-27T20:50:42.000Z",
+      "published_at": "2026-10-27T20:50:42.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-485d190c3a",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "published": "2026-10-27T20:31:17.000Z",
+      "published_at": "2026-10-27T20:31:17.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-2fb0f351f3",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "summary": "Tailscale SSH: Investigation and remediation update",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "published": "2026-10-27T19:55:21.000Z",
+      "published_at": "2026-10-27T19:55:21.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-62b1fcdba2",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.brangus.io/survival-llm",
+      "published": "2026-10-27T19:55:06.000Z",
+      "published_at": "2026-10-27T19:55:06.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-195cb6337f",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "published": "2026-10-27T18:55:35.000Z",
+      "published_at": "2026-10-27T18:55:35.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-4b0c52a0ad",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "summary": "Discord will soon let anyone find public server messages through Google",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "published": "2026-10-27T18:44:17.000Z",
+      "published_at": "2026-10-27T18:44:17.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-db98bf59a6",
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "Build specialized multimodal models with LFM3",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published": "2026-10-27T17:16:52.000Z",
+      "published_at": "2026-10-27T17:16:52.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-8a93bec2dc",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "published": "2026-10-27T17:08:08.000Z",
+      "published_at": "2026-10-27T17:08:08.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-767a7db22e",
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "published": "2026-10-27T17:04:50.000Z",
+      "published_at": "2026-10-27T17:04:50.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-068ca2c5cf",
+      "title": "Ghostty 1.4",
+      "summary": "Ghostty 1.4",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "published": "2026-10-27T16:51:22.000Z",
+      "published_at": "2026-10-27T16:51:22.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-a30b422851",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "published": "2026-10-27T16:30:57.000Z",
+      "published_at": "2026-10-27T16:30:57.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-07281666d1",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "summary": "Classification of Finite Simple Groups Formalized in Lean",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://cfsg.axiommath.ai/",
+      "published": "2026-10-27T16:29:02.000Z",
+      "published_at": "2026-10-27T16:29:02.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-a044912b52",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "published": "2026-10-27T16:25:30.000Z",
+      "published_at": "2026-10-27T16:25:30.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-34370e88c8",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "Can we trust LLMs to judge whether a research idea is novel?",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "published": "2026-10-27T16:12:42.000Z",
+      "published_at": "2026-10-27T16:12:42.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-9739cf69c4",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "summary": "New 14‑inch MacBook Pro with M6",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "published": "2026-10-27T16:08:32.000Z",
+      "published_at": "2026-10-27T16:08:32.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-5ef94984dc",
+      "title": "Genie 4",
+      "summary": "Genie 4",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published": "2026-10-27T16:06:01.000Z",
+      "published_at": "2026-10-27T16:06:01.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-a4c44e96b0",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "published": "2026-10-27T15:28:26.000Z",
+      "published_at": "2026-10-27T15:28:26.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-bb124f9e26",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and r…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "published": "2026-10-27T14:59:09.000Z",
+      "published_at": "2026-10-27T14:59:09.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-042781ef42",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — s…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "published": "2026-10-27T14:51:33.000Z",
+      "published_at": "2026-10-27T14:51:33.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-723c8555f9",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to e…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "published": "2026-10-27T14:40:39.000Z",
+      "published_at": "2026-10-27T14:40:39.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-2a73e71362",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features suppo…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "published": "2026-10-27T14:25:11.000Z",
+      "published_at": "2026-10-27T14:25:11.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-6a47fd5878",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "summary": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "published": "2026-10-27T14:06:42.000Z",
+      "published_at": "2026-10-27T14:06:42.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-33cce9ee1c",
+      "title": "Databricks & the Future of the Firm",
+      "summary": "How agents and new database technology will change the shape of the firm—and wh…",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+      "published": "2026-10-27T14:02:28.000Z",
+      "published_at": "2026-10-27T14:02:28.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-7a05e19b39",
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "summary": "The latest Apple software update for iPhones and iPads includes new features an…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "published": "2026-10-27T13:54:51.000Z",
+      "published_at": "2026-10-27T13:54:51.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-3f5bc6113c",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hac…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "published": "2026-10-27T13:32:57.000Z",
+      "published_at": "2026-10-27T13:32:57.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-d9d30c9aed",
+      "title": "New iMac with M6",
+      "summary": "New iMac with M6",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://www.apple.com/imac/",
+      "published": "2026-10-27T13:02:02.000Z",
+      "published_at": "2026-10-27T13:02:02.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-396ecbb517",
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Ca…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "published": "2026-10-27T13:01:00.000Z",
+      "published_at": "2026-10-27T13:01:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "techcrunch-17e23f6bda",
+      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to…",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+      "published": "2026-10-27T13:00:00.000Z",
+      "published_at": "2026-10-27T13:00:00.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-1688335f37",
+      "title": "Python's experimental JIT to be removed",
+      "summary": "Python's experimental JIT to be removed",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "published": "2026-10-27T11:17:57.000Z",
+      "published_at": "2026-10-27T11:17:57.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-acb3a24ef9",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "summary": "Wikipedia's Cleanup of AI-Generated Content",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "published": "2026-10-27T11:08:15.000Z",
+      "published_at": "2026-10-27T11:08:15.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-f359cfa241",
+      "title": "Announcing the Third a16z New Media Fellowship",
+      "summary": "NMF3 will run for eight weeks, starting in January 2027",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/announcing-the-third-a16z-nmf",
+      "published": "2026-10-26T16:58:44.000Z",
+      "published_at": "2026-10-26T16:58:44.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-2350d6c52c",
+      "title": "Let Chaos Reign, and Then Rein In Chaos",
+      "summary": "Replit and the Agent Habitat",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/let-chaos-reign-and-then-rein-in",
+      "published": "2026-10-26T16:08:29.000Z",
+      "published_at": "2026-10-26T16:08:29.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hn-a1036cc589",
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "summary": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "source": {
+        "id": "hn",
+        "name": "Hacker News"
+      },
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "published": "2026-10-26T15:05:04.000Z",
+      "published_at": "2026-10-26T15:05:04.000Z",
+      "section": "product_case",
+      "sections": [
+        "product_case"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-a8a4e1943d",
+      "title": "Patch or Die",
+      "summary": "Five Drastic Changes Every Company Leader Should Consider Now",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/patch-or-die",
+      "published": "2026-10-23T14:20:41.000Z",
+      "published_at": "2026-10-23T14:20:41.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-dbe21ec1da",
+      "title": "Charts of the Week: Attention is All You Need",
+      "summary": "GPUs, Still Not Obsolete; Doing More With The Same; SaaS Prove-It Cyber",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/charts-of-the-week-attention-is-all",
+      "published": "2026-10-23T14:03:29.000Z",
+      "published_at": "2026-10-23T14:03:29.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-6430909168",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "Does Your Model Run on AWS Trainium? Look It Up",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "2026-10-23T00:00:00.000Z",
+      "published_at": "2026-10-23T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-95eb6975ad",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "2026-10-22T22:24:34.000Z",
+      "published_at": "2026-10-22T22:24:34.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-c7518dfa5a",
+      "title": "Offer your subscriptions to businesses and schools",
+      "summary": "Starting today, organizations and educational institutions can purchase subscri…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=yfo21auu",
+      "published": "2026-10-22T18:00:08.000Z",
+      "published_at": "2026-10-22T18:00:08.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-651b6a2bac",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotligh…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published": "2026-10-22T17:21:30.000Z",
+      "published_at": "2026-10-22T17:21:30.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-5944a9ebf3",
+      "title": "Meet the a16z Ops Engineering Fellows",
+      "summary": "The 40 fellows we’ve selected to join the inaugural cohort",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/meet-the-a16z-ops-engineering-fellows",
+      "published": "2026-10-22T16:30:53.000Z",
+      "published_at": "2026-10-22T16:30:53.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-13ff30ba8e",
+      "title": "a16z Frontier",
+      "summary": "Some of the most important technology waves are still ahead",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/a16z-frontier",
+      "published": "2026-10-22T16:02:50.000Z",
+      "published_at": "2026-10-22T16:02:50.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-5d118fadbe",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "Ensemble forecasting with IBM Granite time-series models",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published": "2026-10-22T07:51:31.000Z",
+      "published_at": "2026-10-22T07:51:31.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-e2d7ad7df6",
+      "title": "Why Hardware Specialization is Back",
+      "summary": "Thirty years ago, general-purpose chips beat specialized ones in the semiconduc…",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/why-hardware-specialization-is-back",
+      "published": "2026-10-21T19:51:16.000Z",
+      "published_at": "2026-10-21T19:51:16.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-7104bc51c2",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Da…",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21T18:26:30.000Z",
+      "published_at": "2026-10-21T18:26:30.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-354f89a6c7",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real A…",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "2026-10-21T17:35:36.000Z",
+      "published_at": "2026-10-21T17:35:36.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-f9b499debd",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "2026-10-21T16:04:43.000Z",
+      "published_at": "2026-10-21T16:04:43.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-20a2590281",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "published": "2026-10-21T16:00:00.000Z",
+      "published_at": "2026-10-21T16:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-9b35c0bfb2",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Fa…",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published": "2026-10-21T14:58:18.000Z",
+      "published_at": "2026-10-21T14:58:18.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-bf1c1e795d",
+      "title": "Superhuman Hardware Design Is The Easy Part",
+      "summary": "The interface between the digital and physical world is lossy",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+      "published": "2026-10-20T18:09:13.000Z",
+      "published_at": "2026-10-20T18:09:13.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-eb47775652",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accel…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "published": "2026-10-20T16:05:03.000Z",
+      "published_at": "2026-10-20T16:05:03.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "a16z-ba29c8e78e",
+      "title": "Investing in Eka Robotics",
+      "summary": "a16z leads Eka Robotics’ Series A",
+      "source": {
+        "id": "a16z",
+        "name": "a16z"
+      },
+      "url": "https://www.a16z.news/p/investing-in-eka-robotics",
+      "published": "2026-10-20T13:05:34.000Z",
+      "published_at": "2026-10-20T13:05:34.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "hf_blog-84cd8d44e9",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "source": {
+        "id": "hf_blog",
+        "name": "Hugging Face Blog"
+      },
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "published": "2026-10-20T00:00:00.000Z",
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-f73f110928",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code wit…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "published": "2026-10-19T18:47:22.000Z",
+      "published_at": "2026-10-19T18:47:22.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-9759a94a7b",
+      "title": "Updated App Review Guidelines are now available",
+      "summary": "The App Review Guidelines have been revised to support new features, updated po…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=92th7e5i",
+      "published": "2026-10-16T20:05:42.000Z",
+      "published_at": "2026-10-16T20:05:42.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-efe854e353",
+      "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
+      "summary": "The App Review Guidelines are a core part of the safe and trusted experience th…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
+      "published": "2026-10-16T20:00:56.000Z",
+      "published_at": "2026-10-16T20:00:56.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-61022bc647",
+      "title": "The next developer interface is ambient intelligence",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "published": "2026-10-15T19:39:27.000Z",
+      "published_at": "2026-10-15T19:39:27.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-f118bcb568",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "summary": "Put native GitHub features to work to review outside collaborator access and ar…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "published": "2026-10-15T18:00:00.000Z",
+      "published_at": "2026-10-15T18:00:00.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-08683db964",
+      "title": "GitHub availability report: September 2026",
+      "summary": "In September, we experienced two incidents that resulted in degraded performanc…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "published": "2026-10-14T20:01:35.000Z",
+      "published_at": "2026-10-14T20:01:35.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-42cfdf4963",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "summary": "Our new repo star history API now provides trends without returning individual…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "published": "2026-10-14T19:11:33.000Z",
+      "published_at": "2026-10-14T19:11:33.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-6aff131cbd",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "summary": "The Apple Developer Program License Agreement has been revised to support new f…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=17mwd36z",
+      "published": "2026-10-13T22:00:09.000Z",
+      "published_at": "2026-10-13T22:00:09.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-49fe8a3fc3",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises wei…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "published": "2026-10-13T17:56:33.000Z",
+      "published_at": "2026-10-13T17:56:33.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "github_blog-acb8686173",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom…",
+      "source": {
+        "id": "github_blog",
+        "name": "GitHub Blog"
+      },
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "published": "2026-10-12T17:43:59.000Z",
+      "published_at": "2026-10-12T17:43:59.000Z",
+      "section": "ai_tech",
+      "sections": [
+        "ai_tech"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-5ff92ea547",
+      "title": "Hello Developer: October 2026",
+      "summary": "In this edition: Get tips on submitting your iPhone Duo app. Sign up for new iP…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=gv788oj6",
+      "published": "2026-10-06T15:00:23.000Z",
+      "published_at": "2026-10-06T15:00:23.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-1e5b8ea6ae",
+      "title": "Prepare and submit your apps for iPhone Duo",
+      "summary": "iPhone Duo will be available to customers starting October 23, 2026. To get you…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=kkphp5qo",
+      "published": "2026-10-06T00:05:33.000Z",
+      "published_at": "2026-10-06T00:05:33.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-d6fa1fb2f9",
+      "title": "Showcase your apps with new assets on the App Store",
+      "summary": "Make your apps and games stand out with new creative assets on the App Store an…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=ljpl7kyn",
+      "published": "2026-10-05T20:00:27.000Z",
+      "published_at": "2026-10-05T20:00:27.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-daaf020a11",
+      "title": "Updates to Full Disk Access in macOS",
+      "summary": "We give developers powerful APIs to build incredible capabilities into their ap…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "published": "2026-10-02T16:00:19.000Z",
+      "published_at": "2026-10-02T16:00:19.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-dfd3b6f3a1",
+      "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
+      "summary": "The original Developer ID Certification Authority (Sub-CA) expires on February…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=w4atic4c",
+      "published": "2026-10-01T17:00:11.000Z",
+      "published_at": "2026-10-01T17:00:11.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    },
+    {
+      "id": "apple_dev-d47226951a",
+      "title": "Build for iPhone Duo with new resources",
+      "summary": "Get Xcode 27.1 beta. View downloads and release notes Get Figma and Sketch desi…",
+      "source": {
+        "id": "apple_dev",
+        "name": "Apple Developer News"
+      },
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "published": "2026-09-18T17:00:57.000Z",
+      "published_at": "2026-09-18T17:00:57.000Z",
+      "section": "flash",
+      "sections": [
+        "flash"
+      ],
+      "lang": "en",
+      "industry_group": "",
+      "markets": [],
+      "is_opportunity": false,
+      "ai_summary": false
+    }
+  ]
+}
