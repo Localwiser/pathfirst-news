@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-11-02",
   "skipped": [
     {
       "industry": "biz_ops",
       "market": "JP",
       "competitor": "Misoca",
       "source": "changelog",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaMkuN8xcxZVCpQbJTa\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGqAY4DvygskXZhvtUE\"}"
     },
     {
       "industry": "biz_ops",
       "market": "JP",
       "competitor": "Misoca",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaNQsdZVvE12w9hB2wZ\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGqVGBEnNUQ1YxygmQp\"}"
     },
     {
       "industry": "biz_ops",
       "market": "JP",
       "competitor": "board",
       "source": "changelog",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaNjQ6rHaW37qmJeqhM\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGqpY3S1wnwHoTctdbK\"}"
     },
     {
       "industry": "biz_ops",
@@ -62,28 +62,28 @@
       "market": "JP",
       "competitor": "Airレジ",
       "source": "changelog",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaPatR1zwsYZBRKAzwu\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGrfLgUsS3zZww155zV\"}"
     },
     {
       "industry": "local_life",
       "market": "JP",
       "competitor": "Airレジ",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaQEEUS9i2mPvY3Qjtc\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGt5N5Q1vfEVMtgZTzy\"}"
     },
     {
       "industry": "local_life",
       "market": "JP",
       "competitor": "Airシフト",
       "source": "changelog",
-      "reason": "读到 16 条，2025-10-02 之后一条都没有"
+      "reason": "读到 16 条，2025-11-02 之后一条都没有"
     },
     {
       "industry": "local_life",
       "market": "JP",
       "competitor": "Airシフト",
       "source": "app_store",
-      "reason": "未取到数据：评价 feed 3 次都返回 0 条，不作结论"
+      "reason": "1–2 星评价只有 0 条，少于 3，不作结论"
     },
     {
       "industry": "local_life",
@@ -97,7 +97,7 @@
       "market": "JP",
       "competitor": "スマレジ",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaRp8CEd8HEDNDjXMAJ\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGu7Lfq1Bn5KYW4kPfC\"}"
     },
     {
       "industry": "local_life",
@@ -118,14 +118,14 @@
       "market": "DE",
       "competitor": "Ordio",
       "source": "changelog",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaSVHQUpu4MUVKA1Yi4\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGum5YtQWHpBEo9AfU8\"}"
     },
     {
       "industry": "local_life",
       "market": "DE",
       "competitor": "Ordio",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaSfYnYcPvLW9eNc9su\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGuveWriDWbLGkVKswo\"}"
     },
     {
       "industry": "local_life",
@@ -139,7 +139,7 @@
       "market": "DE",
       "competitor": "gastromatic",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaTNh4MVAbUa29cFuU5\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGvcqjNQBLaVbW16cra\"}"
     },
     {
       "industry": "local_life",
@@ -167,7 +167,7 @@
       "market": "DE",
       "competitor": "orderbird",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaUTyaaX66QpkgZrib8\"}"
+      "reason": "1–2 星评价只有 2 条，少于 3，不作结论"
     },
     {
       "industry": "local_life",
@@ -195,7 +195,7 @@
       "market": "DE",
       "competitor": "Planday",
       "source": "app_store",
-      "reason": "fetch failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfcaVREtiBN9VFmX6dsze\"}"
+      "reason": "fetch failed: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgdGxdK4vrvg4tjexLLzA\"}"
     }
   ]
 }
